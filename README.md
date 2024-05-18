@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1nt3nt
-- 👀 I’m interested in soccer
-- 🌱 I’m currently learning CUDA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I love soccer
+- 🌱 I am developing model to estimate chip performance
 - 📫 How to reach me ... You will never reach!!!
 
 <!---
